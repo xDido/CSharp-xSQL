@@ -50,3 +50,5 @@ address.
 2. View all matches that have available tickets starting at a given time (in a form of host club name,
 guest club name, name of the stadium hosting the match and the location of that stadium).
 3. Purchase a ticket for a match.
+___
+![alt text](https://raw.githubusercontent.com/xDido/C-xSQL/master/ERD.png)
