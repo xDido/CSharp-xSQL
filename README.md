@@ -1,4 +1,4 @@
-# C-xSQL(ASP.NET)
+# C#-xSQL(ASP.NET)
 ## Overview
 In this milestone, you are required to implement a web application with a user interface that connects to
 your already implemented database in the previous milestones in order to perform the requirements listed
