@@ -1,4 +1,3 @@
-# C#xSQL(ASP.NET)
 ## Requirements
 Your web application should have an interface that allows the specified actions to be done for each of the
 mentioned user type:
@@ -47,3 +46,11 @@ address.
 guest club name, name of the stadium hosting the match, and the location of that stadium).
 3. Purchase a ticket for a match.
 ___
+## Tools and Technologies:
+- **Backend:** C# (ASP.NET MVC), Entity Framework
+- **Frontend:** HTML, CSS, JavaScript, Razor syntax
+- **Database:** MSSQL
+- **Authentication:** ASP.NET Identity
+- **Version Control:** Git
+- **Development Environment:** Visual Studio
+
