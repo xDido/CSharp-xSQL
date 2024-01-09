@@ -47,4 +47,3 @@ address.
 guest club name, name of the stadium hosting the match, and the location of that stadium).
 3. Purchase a ticket for a match.
 ___
-![alt text](https://raw.githubusercontent.com/xDido/C-xSQL/master/ERD.png)
