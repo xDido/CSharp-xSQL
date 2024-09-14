@@ -1,8 +1,3 @@
-## Requirements
-Your web application should have an interface that allows the specified actions to be done for each of the
-mentioned user type:
-Note: You should always make sure that the data passed from the interface to your database
-is valid data.
 ___
 ## **System Admin:**
 1. Add a new club using its name and location.
